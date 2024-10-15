@@ -1,2 +1,2 @@
-# dhruv-portfolio
+# Ansh-portfolio
 My fully functional personal portfolio website.
